@@ -6,8 +6,8 @@ A collection of my Java projects: coursework, personal experiments, and things I
  
 | Project | Description | Tech | Type |
 |---------|-------------|------|------|
-| [project-one](./project-one) | Short description of what it does | Java 17, Maven | Course assignment |
-| [project-two](./project-two) | Short description of what it does | Java 21, Spring Boot | Personal |
+| [project-one](./SecureLoginPuc) | Projeto de login da Puc com SpringBoot | Java 17, Maven | estudo de DIAW |
+| [project-two](./TarefaNivelamentoJava) | Atividades de revisao de Java | Java 21, Spring Boot | estudo de Programacao Modular |
  
 > Add a new row whenever you add a project. Keep descriptions to one line.
  
